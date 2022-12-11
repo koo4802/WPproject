@@ -1,0 +1,15 @@
+body { background-color : #08090d; }
+#main_korean_wave {text-align : center; font-size:6em;  color: rgb(106, 153, 129);}
+div {font-size:2em;  color: gray;}
+#top5{font-size:4em;  color: rgb(48, 135, 170); text-align: center;}
+.menu{font-size:2em; display : inline-block; list-style-type : none; padding : 0px 15px;}
+a:link{color: rgb(106, 153, 129);}
+a:hover{color: rgb(215, 255, 169);}
+a:visited{color: gray;}
+#mov-img{text-align : center;}
+#menubar ul{display : table; margin-right: auto; margin-left : auto;}
+.menu_all{font: size 1px; display : inline-block; list-style-type : none; padding : 0px 15px;}
+.menu_all_left{color:rgb(106, 153, 129);text-align: center;}
+.menu_all_right{text-align: right;}
+body h1{text-align : left; font-size:6em;  color: darkgray;}
+body h3{text-align : left; font-size:2em;  color: gray;}
